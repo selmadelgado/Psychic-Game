@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    margin-left: auto ;
+    margin-right: auto;
+    font-family: 'Raleway', sans-serif;
+    line-height: 2.5em;
+}
+
+h1 {
+    font-size: 30px;
+    margin: 20px;
+     line-height:  1.5em;
+}
+
+p {
+     line-height:  2em;
+    width= 300px;
+}
+
+.instructions {
+    line-height:  1.5em;
+    margin-left: auto ;
+    margin-right: auto;
+    margin-top:  32px;
+    max-width: 600px;
+}
